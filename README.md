@@ -1,6 +1,6 @@
 # Stock_market_prediction
-### This project aims to predict stock prices using machine learning techniques. By analyzing historical stock data, we can develop models to forecast future stock prices. In this README, we will outline the steps to run the stock market prediction model.
 
+#### This project aims to predict stock prices using machine learning techniques. By analyzing historical stock data, we can develop models to forecast future stock prices. In this README, we will outline the steps to run the stock market prediction model.
 ##### 1)Data Loading and Preprocessing: Load the dataset and perform any necessary preprocessing. This may include handling missing values, encoding categorical variables, and scaling numerical features.
 ##### 2)Exploratory Data Analysis (EDA): Explore the dataset's structure and characteristics. Use visualizations such as line plots, histograms, and scatter plots to understand key statistics and trends in the data.
 ##### 3)Feature Engineering: Create new features or transform existing ones to improve model performance. This could involve lagging features to capture past trends or creating moving averages to smooth out noise in the data.
