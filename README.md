@@ -1,4 +1,4 @@
-# Stock_market_prediction
+# Data-Science-Project-Series
 
 #### This project aims to predict stock prices using machine learning techniques. By analyzing historical stock data, we can develop models to forecast future stock prices. In this README, we will outline the steps to run the stock market prediction model.
 ##### 1)Data Loading and Preprocessing: Load the dataset and perform any necessary preprocessing. This may include handling missing values, encoding categorical variables, and scaling numerical features.
