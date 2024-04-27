@@ -12,15 +12,15 @@
 ## CRT
 #### This project aims to predict breast cancer diagnoses based on the Breast Cancer Wisconsin (Diagnostic) dataset using a Support Vector Machine (SVM) model.
 ### Data Preprocessing:
-##### Load the dataset and perform an initial exploration.
-##### Handle missing values using imputation or removal.
-##### Handle outliers using trimming, transformation, or capping.
-##### Normalize or standardize the features.
-#### Feature Selection and Engineering:
-##### Identify relevant features using statistical tests, correlation analysis, or feature importance.
-##### Explore creating new features or transformations.
-#### Machine Learning Model (SVM):
-##### Split the dataset into training and testing sets.
-##### Implement an SVM model, experimenting with different kernels and hyperparameters.
-##### Train the model on the training data and evaluate its performance.
-##### Use performance metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
+##### 1)Load the dataset and perform an initial exploration.
+##### 2)Handle missing values using imputation or removal.
+##### 3)Handle outliers using trimming, transformation, or capping.
+##### 4)Normalize or standardize the features.
+### Feature Selection and Engineering:
+##### 1)Identify relevant features using statistical tests, correlation analysis, or feature importance.
+##### 2)Explore creating new features or transformations.
+### Machine Learning Model (SVM):
+##### 1)Split the dataset into training and testing sets.
+##### 2)Implement an SVM model, experimenting with different kernels and hyperparameters.
+##### 3)Train the model on the training data and evaluate its performance.
+##### 4)Use performance metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
