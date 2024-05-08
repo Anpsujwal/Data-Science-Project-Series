@@ -26,8 +26,7 @@
 ##### 4)Use performance metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
 
 
-## Sentiment Analysis Project
-
+## SENTIMENTAL ANALYSIS
 #### This project aims to perform sentiment analysis on text data to determine the sentiment expressed in the text (positive, negative, or neutral). Sentiment analysis is a natural language processing (NLP) technique that can be applied to various types of text data, such as customer reviews, social media posts, and product feedback.
 
 ## Methodology
